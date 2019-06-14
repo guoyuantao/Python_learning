@@ -1,0 +1,2 @@
+In Python you can learn dict.
+In Python you can learn list.
